@@ -2,7 +2,7 @@
 
 A comparative study and implementation of **Parameter-Efficient Fine-Tuning (PEFT)** strategies versus full-parameter tuning for code generation tasks. This project adapts **GPT-2 (124M)** to generate functional Python code using the **CodeXGlue** dataset, optimizing for inference and training efficiency in resource-constrained environments.
 
-📄 **[Read the Full Technical Milestone Report (PDF)](https://www.google.com/search?q=./Milestone_Report.pdf)**
+📄 **[Read the Full Technical Milestone Report (PDF)](https://github.com/MridulTailor/llm-codegen-lora-finetuning/blob/main/Milestone_Report.pdf)**
 
 ## 🚀 Project Overview
 
